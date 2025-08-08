@@ -1,7 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Amirah! <br/><a href="https://www.linkedin.com/in/amirah-p-058514365/">Aspiring Cybersecurity Professional</a>
+  
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+ 
+<h2>📄 Certifications:</h2>
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
 
 <!--
-**Amirah-P/Amirah-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
