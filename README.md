@@ -1,6 +1,6 @@
-<h1>Hi, I'm Amirah! <br/><a href="https://www.linkedin.com/in/amirah-p-058514365/">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Amirah! <br/><a href="https://www.linkedin.com/in/amirah-p-058514365/">Aspiring Data Analyst Professional</a>
   
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
  
 <h2>📄 Certifications:</h2>
