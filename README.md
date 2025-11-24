@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Python</b>
-  - [Rock, Paper, Scissors Game: Random Module](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Rock, Paper, Scissors Game: Randomisation and Python Lists](https://github.com/Amirah-P/PythonRockPaperScissors/blob/main/README.md)
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>SQL</b>
