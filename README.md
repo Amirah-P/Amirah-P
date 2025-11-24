@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 Projects:</h2>
 - <b>Python</b>
- 
+
 <h2>📄 Certifications:</h2>
 
 
