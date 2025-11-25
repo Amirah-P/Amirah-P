@@ -7,7 +7,8 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>SQL</b>
-   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Data Query Lab in SQL](https://github.com/Amirah-P/DataAndSQL)
+
 
 - <b>Data</b>
    - [Data Cleaning](https://github.com/joshmadakor1/Algorithms-Practice)
