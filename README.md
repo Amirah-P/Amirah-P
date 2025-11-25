@@ -8,7 +8,9 @@
 
 - <b>SQL</b>
    - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>Data</b>
+   - [Data Cleaning](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📄 Certifications:</h2>
 
