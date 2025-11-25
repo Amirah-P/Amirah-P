@@ -11,7 +11,7 @@
 
 
 - <b>Data</b>
-   - [Data Cleaning](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Data Cleaning](https://github.com/Amirah-P/DataCleaning)
 
 <h2>📄 Certifications:</h2>
 
