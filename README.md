@@ -17,6 +17,9 @@
  
 
  - [CFG Kickstarter:Python](https://github.com/Amirah-P/KickStarter-Course-Python/blob/main/Certificate%20python.pdf)
+ - [CFG KickStarter: Data & SQL](https://github.com/Amirah-P/KickStarter-SQL-Data/blob/main/Certificate%20SQL.pdf)
+
+
 
 
 <!--
