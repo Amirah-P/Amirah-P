@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - [Rock, Paper, Scissors Game: Randomisation and Python Lists](https://github.com/Amirah-P/PythonRockPaperScissors/blob/main/README.md)
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 
 - <b>SQL</b>
    - [Data Query Lab in SQL](https://github.com/Amirah-P/DataAndSQL)
