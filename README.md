@@ -14,12 +14,8 @@
    - [Data Cleaning](https://github.com/Amirah-P/DataCleaning)
 
 <h2>📄 Certifications:</h2>
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
-
-<h2> 🤳 Connect with me:</h2>
+   - [Kickstarter: Python]()
+   - [Kickstarter Data & SQL]()
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
