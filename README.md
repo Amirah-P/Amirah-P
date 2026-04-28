@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Tableau</b>
+  - [Exploration of Tableau data visualisation](https://github.com/Amirah-P/PythonRockPaperScissors/blob/main/README.md)
 
 - <b>Python</b>
   - [Rock, Paper, Scissors Game: Randomisation and Python Lists](https://github.com/Amirah-P/PythonRockPaperScissors/blob/main/README.md)
