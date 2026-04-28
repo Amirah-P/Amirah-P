@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Tableau</b>
-  - [Exploration of Tableau data visualisation](https://github.com/Amirah-P/PythonRockPaperScissors/blob/main/README.md)
+  - [Exploration of Tableau data visualisation](https://github.com/Amirah-P/Tableau)
  
   - [Superstore Sales Performance Dashboard](https://github.com/Amirah-P/Tableau-2/blob/main/README.md)
   
