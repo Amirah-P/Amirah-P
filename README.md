@@ -2,6 +2,9 @@
   
 <h2>👨‍💻 Projects:</h2>
 
+- <b>C#</b>
+  - [Exploration of C# by creating a MiniBank]()
+
 - <b>Tableau</b>
   - [Exploration of Tableau data visualisation](https://github.com/Amirah-P/Tableau)
  
