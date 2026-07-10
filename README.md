@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>C#</b>
-  - [Exploration of C# by creating a MiniBank]()
+  - [Exploration of C# by creating a MiniBank](https://github.com/Amirah-P/C-MiniBank/blob/main/README.md)
 
 - <b>Tableau</b>
   - [Exploration of Tableau data visualisation](https://github.com/Amirah-P/Tableau)
