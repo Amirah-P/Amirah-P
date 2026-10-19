@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Excel</b>
-  - [UK Energy Consumption Analysis](https://github.com/Amirah-P/Tableau)
+  - [UK Energy Expenditure Analysis](https://github.com/Amirah-P/Tableau)
 
 - <b>C#</b>
   - [Exploration of C# by creating a MiniBank](https://github.com/Amirah-P/C-MiniBank/blob/main/README.md)
